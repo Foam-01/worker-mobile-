@@ -49,8 +49,10 @@ Foam-01
 4. Run the app on your desired platform: For Android:  flutter run -d android     For iOS: flutter run -d ios  For Web:  flutter run -d chrome  For Windows/macOS/Linux: flutter run -d windows   # or macos, linux accordingly
 5. (Optional) Run tests:  flutter test
 
-![Screenshot 2025-06-16 223353](https://github.com/user-attachments/assets/076389d7-d760-4f35-bfc8-a7f90c3c98e2)
-![Screenshot 2025-06-16 223543](https://github.com/user-attachments/assets/a900b724-18a3-497e-b065-72fca45a459b)
+![Screenshot 2025-06-17 114810](https://github.com/user-attachments/assets/25d51e39-6daa-4ef2-8605-4564770fa6e7)
+![Screenshot 2025-06-17 114833](https://github.com/user-attachments/assets/82eb8a1c-7b6a-4f35-b9ab-e3567466a43b)
+![Screenshot 2025-06-17 114848](https://github.com/user-attachments/assets/c9270785-25bb-4789-bb49-ec8879ec3142)
+![Screenshot 2025-06-17 114901](https://github.com/user-attachments/assets/d640c84d-f747-47a7-91f8-68f3387084bd)
 
 
 
